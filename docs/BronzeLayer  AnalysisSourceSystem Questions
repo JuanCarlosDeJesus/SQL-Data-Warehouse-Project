@@ -1,0 +1,17 @@
+Business Context & Ownership
+Who oens the data?
+What Business Process it supports?
+System & Data Documentations
+Data Model & Data Catalog
+
+Architecture & Technology Stack
+How is data stpred? (SQL Server, Orable, AWS, Azure...)
+WHat are the Integration Capabilities? (API, Kafks, File Extract, Direct DB...)
+
+Extract & Load
+Incremental vs Full Load?
+Data Scope & Historical Needs
+What is the expected size of the extracts?
+Are there any data volume limitations?
+How to avoid impacting the source systems's performance?
+Authentication and Authorization (Tokens, SSH keys, VPN, IP whitelisting, ...)
